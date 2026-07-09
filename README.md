@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7P9NiruM4qUZmpH-Hnyl31gDc2mts429qxU2IkTBWJg&s=10" width="100" alt="html"></td>
-    <td><img src="https://www.w2solution.co.jp/wp-content/uploads/2023/01/css_original_wordmark_logo_icon_146576-e1673940862306.png" width="100" alt="css"></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Official_CSS_Logo.svg" width="100" alt="css"></td>
     <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtW41-f13wcfMVqPEl9X70IAV9fvf7oYE6svE8e4xIEA&s=10" width="100" alt="javascript"></td>
     <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSELGxSLK6FcXmNiTynajdVGobycdsrGlhdee6c8Um9vQ&s=10" width="100" alt="c"></td>
     <td><img src="https://avatars.githubusercontent.com/u/4223" width="100" alt="ruby"></td>
